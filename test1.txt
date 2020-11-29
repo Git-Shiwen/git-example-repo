@@ -1,3 +1,4 @@
-git init
+git init - intilization 
 git status
 git config --global user.email "test@gmail.com"
+git diff
